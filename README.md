@@ -1,4 +1,4 @@
-<h1 align="center">Salut 👋🏾, je suis Yves Pierre</h1>
+<h1 align="center">Bonjour 👋🏾, je suis Yves PIERRE</h1>
 <h3 align="center">En reconversion professionnelle, je viens d'obtenir Mon diplôme de développeur web après une formation de 7 mois chez Openclassrooms .Je suis à la recherche d'un poste de développeur web Junior.</h3>
 
 -👨🏾‍💻Projet réalisé : Transformez une maquette en site web avec html5 & CSS3 [Booki](https://yves91700.github.io/Booki/ )
