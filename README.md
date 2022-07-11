@@ -1,11 +1,11 @@
-<h1 align="center">Salut 👋, je suis Yves Pierre</h1>
+<h1 align="center">Salut 👋🏾, je suis Yves Pierre</h1>
 <h3 align="center">En reconversion professionnelle, je viens d'obtenir Mon diplôme de développeur web après une formation de 7 mois chez Openclassrooms .Je suis à la recherche d'un poste de développeur web Junior.</h3>
 
-- Projet réalisé : Transformez une maquette en site web avec html5 & CSS3 [Booki](https://yves91700.github.io/Booki/)
+- Projet réalisé : Transformez une maquette en site web avec html5 & CSS3 [Booki](https://yves91700.github.io/Booki/ )
 
 - Projet réalisé : Construisez une API sécurisée pour une application d'avis gastronomiques **Piquante : https://github.com/Yves91700/P6_Piquante.git**
 
-- Projet réalisé : Dynamisez une page web avec des animations CSS [Oh-my -nourriture](https://yves91700.github.io/PierreYves_3_21122021/)
+- Projet réalisé : Dynamisez une page web avec des animations CSS [Oh- ma-nourriture](https://yves91700.github.io/PierreYves_3_21122021/)
 
 - Projet réalisé : Construisez un site e-commerce en javascript [Kanap](https://github.com/Yves91700/P5-Kanap-Yves-Pierre.git)
 
