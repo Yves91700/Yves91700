@@ -43,4 +43,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yves91700&show_icons=true&locale=fr&layout=compact" alt="yves91700" /> </p>
 
-<img alt="MariaDB" src="https://user-content.gitlab-static.net/144b83789b7996ee0c0ce0dc60f3d25094184f9b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6172696144422d3030333534353f7374796c653d666c61742d737175617265266c6f676f3d6d617269616462266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&amp;logo=mariadb&amp;logoColor=white" decoding="async" class="js-lazy-loaded qa-js-lazy-loaded" loading="lazy">
+
