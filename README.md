@@ -12,7 +12,7 @@
 
 -👨🏾‍💻Projet réalisé : Construire une API sécurisée pour une application d'avis gastronomiques [Piquante](https://github.com/Yves91700/P6_Piquante.git)
 
--👨🏾‍💻Projet réalisé : Créer un réseau social d'entreprise [Groupomania](https://github.com/Yves91700/Groupomania_Pierre_Yves_042022.git)
+-👨🏾‍💻Projet réalisé : Créer un réseau social d'entreprise [Groupomania](https://github.com/Yves91700/Groupomania_Pierre_Yves_042022.git) 
 
 -👨🏾‍💻Projet réalisé : Créer une interface de streaming de type Youtube de zéro avec html5 & CSS3 & JavaScript [ouiTube](https://yves91700.github.io/OuiTube/)
 
